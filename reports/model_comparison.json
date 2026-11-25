@@ -1,0 +1,32 @@
+{
+  "results": {
+    "Linear Regression": {
+      "r2_log": 0.9093,
+      "rmse_log": 0.1236,
+      "mae_log": 0.0845,
+      "rmse_dollar": 21207.92,
+      "mae_dollar": 14656.18,
+      "cv_r2_mean": 0.8843,
+      "cv_r2_std": 0.0323
+    },
+    "Random Forest": {
+      "r2_log": 0.8745,
+      "rmse_log": 0.1454,
+      "mae_log": 0.0965,
+      "rmse_dollar": 23340.33,
+      "mae_dollar": 16249.67,
+      "cv_r2_mean": 0.8788,
+      "cv_r2_std": 0.0139
+    },
+    "Gradient Boosting": {
+      "r2_log": 0.9127,
+      "rmse_log": 0.1213,
+      "mae_log": 0.0825,
+      "rmse_dollar": 19708.26,
+      "mae_dollar": 13969.97,
+      "cv_r2_mean": 0.9014,
+      "cv_r2_std": 0.0066
+    }
+  },
+  "best_model": "Gradient Boosting"
+}
