@@ -177,6 +177,9 @@ Full numbers: `reports/model_comparison.json`.
 
 ## 12. Screenshots
 
+Live app: https://cdmluxb2kty44gxw8cvesf.streamlit.app/ (deployed
+25 Nov 2026 on Streamlit Community Cloud).
+
 Add here after deployment: (1) Streamlit app home page, (2) a filled
 form with the predicted price, (3) the Model Information section.
 Take them from the live deployed app, not from local mockups.
@@ -200,7 +203,7 @@ The project successfully built an end-to-end house price prediction
 system: real data was analyzed, a leakage-free preprocessing pipeline
 was created, three models were compared honestly, and the best model
 (Gradient Boosting, test R² 0.9127) was deployed as a working
-Streamlit application. The system is understandable, testable, and
+Streamlit application at https://cdmluxb2kty44gxw8cvesf.streamlit.app/. The system is understandable, testable, and
 reproducible on a normal laptop with free tools.
 
 ## 15. Future Scope

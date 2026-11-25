@@ -149,4 +149,4 @@ liye app ko local chala ke dekho: `.venv/bin/streamlit run app/app.py`
 ## Deployment
 
 Streamlit Community Cloud (free) — poori steps `DEPLOYMENT.md` me hain.
-Deployment link: *deploy ke baad yahan add karenge.*
+Deployment link: https://cdmluxb2kty44gxw8cvesf.streamlit.app/
